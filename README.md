@@ -1,5 +1,6 @@
 ## Hi there 👋, Fadi Naddaf
 ### Design and Development
+https://github.com/F-Naddaf/F-Naddaf/blob/main/GitHub%20Profile%20image-New.jpg
 I'm Fadi, originally from Syria, and I'm currently living in the Netherlands.
 I am currently a student at the HACKYOURFUTURE Coding Academy in Amsterdam.
 I am a proactive, confident person, strong communicator and always in the future.
