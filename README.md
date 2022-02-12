@@ -12,7 +12,7 @@ I really enjoy learning languages and frameworks.
 
 
 ## Skills and Experience:
-<img src='https://i.ibb.co/km8MJGM/CSS.png' alt='CSS' height='40'>  <img src='https://i.ibb.co/qWGVFZ9/HTML.png' alt='HTML' height='40'>  <img src='https://i.ibb.co/Ms2GV1p/JS.png' alt='JS' height='40'>  <img src='https://i.ibb.co/TKyFTPz/PS.png' alt='PS' height='40'>  <img src='https://i.ibb.co/VDD9Bwp/AI.png' alt='AI' height='40'>
+<img src='https://i.ibb.co/km8MJGM/CSS.png' alt='CSS' height='40'>  <img src='https://i.ibb.co/qWGVFZ9/HTML.png' alt='HTML' height='40'>  <img src='https://i.ibb.co/Ms2GV1p/JS.png' alt='JS' height='40'>  <img src='https://i.ibb.co/TKyFTPz/PS.png' alt='PS' height='40'>   <img src='https://i.ibb.co/VDD9Bwp/AI.png' alt='AI' height='40'>
 
 
 - 🌱 I’m currently learning I’m currently a student at: HACKYOURFUTURE. 
