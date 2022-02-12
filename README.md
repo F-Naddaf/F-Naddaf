@@ -23,5 +23,5 @@ I really enjoy learning languages and frameworks.
 <br />
 
 ## Contact with me:
-[<img align="left" alt="linkedin" width='45' src="https://i.postimg.cc/44rf3Bmt/linkedin-logo.png">](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  [<img align="left" alt="github" width='38' src="https://i.postimg.cc/9FYrpCmH/Git-Hub-logo.png">](https://github.com/F-Naddaf)  
+[<img align="left" alt="linkedin" width='55' src="https://i.postimg.cc/44rf3Bmt/linkedin-logo.png">](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  [<img align="left" alt="github" width='38' src="https://i.postimg.cc/9FYrpCmH/Git-Hub-logo.png">](https://github.com/F-Naddaf)  
 
