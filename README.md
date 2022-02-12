@@ -8,7 +8,9 @@ I am a proactive, confident person, strong communicator and always in the future
 I really enjoy learning languages and frameworks.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F-Naddaf)
+
+- 🌱 I’m currently learning I’m currently a student at: HACKYOURFUTURE. 
+- ⚡ Fun fact: Online shopping and puzzle solving. 
 
 
 ## Skills and Experience:
@@ -19,8 +21,7 @@ I really enjoy learning languages and frameworks.
 * <img src='https://i.ibb.co/VDD9Bwp/AI.png' alt='AI' height='40'> Adobe Illustrator
 
 
-- 🌱 I’m currently learning I’m currently a student at: HACKYOURFUTURE. 
-- ⚡ Fun fact: Online shopping and puzzle solving. 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F-Naddaf)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/F-Naddaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  
