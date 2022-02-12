@@ -13,7 +13,6 @@ I really enjoy learning languages and frameworks.
 
 Skills: JS / HTML / CSS / PS / AI
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning I’m currently a student at: HACKYOURFUTURE. 
 - ⚡ Fun fact: Online shopping and puzzle solving. 
 
