@@ -9,7 +9,7 @@ I really enjoy learning languages and frameworks.
 
 
 
-- 🌱 I’m currently learning I’m currently a student at: HACKYOURFUTURE. 
+- 🌱 I’m currently learning I’m currently a student at: [HACKYOURFUTURE]. 
 - ⚡ Fun fact: Online shopping and puzzle solving. 
 
 
