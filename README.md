@@ -1,4 +1,4 @@
-##### Fadi Naddaf
+## Fadi Naddaf
 
 I'm Fadi, originally from Syria, and I'm currently living in the Netherlands.<br>
 I am currently a student at the HACKYOURFUTURE Coding Academy in Amsterdam.<br>
