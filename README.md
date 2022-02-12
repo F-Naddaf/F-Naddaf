@@ -22,6 +22,6 @@ I really enjoy learning languages and frameworks.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F-Naddaf)
 <br />
 
-## Contact me:
+## Contact with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/F-Naddaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  
 
