@@ -3,12 +3,11 @@
 ![Design and Development](https://github.com/F-Naddaf/F-Naddaf/blob/main/GitHub%20Profile%20banner.jpg)
 
 I'm Fadi, originally from Syria, and I'm currently living in the Netherlands.
-I am currently a student at the HACKYOURFUTURE Coding Academy in Amsterdam.
 I am a proactive, confident person, strong communicator and always in the future.
 I really enjoy learning languages and frameworks.
 <br />
 
-- 🌱 I’m currently learning I’m currently a student at: HACKYOURFUTURE. 
+- 🌱 I’m currently a student at: HACKYOURFUTURE Coding Academy in Amsterdam. 
 - ⚡ Fun fact: Online shopping and puzzle solving. 
 <br />
 
