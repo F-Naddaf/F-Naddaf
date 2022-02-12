@@ -13,16 +13,16 @@ I really enjoy learning languages and frameworks.
 <br />
 
 ## Skills and Experience:
-* <img src='https://i.ibb.co/km8MJGM/CSS.png' alt='CSS' height='40'> CSS
-* <img src='https://i.ibb.co/qWGVFZ9/HTML.png' alt='HTML' height='40'>  HTML
-* <img src='https://i.ibb.co/Ms2GV1p/JS.png' alt='JS' height='40'> JavaScript
-* <img src='https://i.ibb.co/TKyFTPz/PS.png' alt='PS' height='40'> Adobe Photoshop
-* <img src='https://i.ibb.co/VDD9Bwp/AI.png' alt='AI' height='40'> Adobe Illustrator
+* <img src='https://i.ibb.co/km8MJGM/CSS.png' alt='CSS' height='35'> CSS
+* <img src='https://i.ibb.co/qWGVFZ9/HTML.png' alt='HTML' height='35'>  HTML
+* <img src='https://i.ibb.co/Ms2GV1p/JS.png' alt='JS' height='35'> JavaScript
+* <img src='https://i.ibb.co/TKyFTPz/PS.png' alt='PS' height='35'> Adobe Photoshop
+* <img src='https://i.ibb.co/VDD9Bwp/AI.png' alt='AI' height='35'> Adobe Illustrator
 <br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F-Naddaf)
 <br />
 
 ## Contact me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/F-Naddaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/F-Naddaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  
 
