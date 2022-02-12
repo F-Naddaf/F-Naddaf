@@ -1,20 +1,20 @@
-# Fadi Naddaf
-
-I'm Fadi, originally from Syria, and I'm currently living in the Netherlands.<br>
-I am currently a student at the HACKYOURFUTURE Coding Academy in Amsterdam.<br>
-I am a proactive, confident person, strong communicator and always in the future.<br>
+## Hi there 👋, Fadi Naddaf
+#### Design and Development
+I'm Fadi, originally from Syria, and I'm currently living in the Netherlands.
+I am currently a student at the HACKYOURFUTURE Coding Academy in Amsterdam.
+I am a proactive, confident person, strong communicator and always in the future.
 I really enjoy learning languages and frameworks.
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F-Naddaf)
 
 
-- 👋 Hi, I’m @F-Naddaf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Skills: JS / HTML / CSS / PS / AI
 
-<!---
-F-Naddaf/F-Naddaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning I’m currently a student at: HACKYOURFUTURE. 
+- ⚡ Fun fact: Online shopping and puzzle solving. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/F-Naddaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  
+
