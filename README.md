@@ -1,5 +1,5 @@
 ## Hi there 👋, Fadi Naddaf
-#### Design and Development
+### Design and Development
 I'm Fadi, originally from Syria, and I'm currently living in the Netherlands.
 I am currently a student at the HACKYOURFUTURE Coding Academy in Amsterdam.
 I am a proactive, confident person, strong communicator and always in the future.
