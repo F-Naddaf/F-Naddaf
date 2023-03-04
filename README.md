@@ -7,7 +7,7 @@ I am a proactive, confident person, strong communicator and always in the future
 I really enjoy learning languages and frameworks.
 <br />
 
-- 🌱 I’m currently a student at: HACKYOURFUTURE Coding Academy in Amsterdam. 
+- 🌱 I recently graduated as a Front-end Developer from HACKYOURFUTURE Coding Academy in Amsterdam. 
 - ⚡ Fun fact: Online shopping and puzzle solving. 
 <br />
 
