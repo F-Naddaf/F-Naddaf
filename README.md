@@ -2,9 +2,9 @@
 ### Design and Development
 ![Design and Development](https://github.com/F-Naddaf/F-Naddaf/blob/main/GitHub%20Profile%20banner.jpg)
 
-I'm Fadi, originally from Syria, and I'm currently living in the Netherlands.
-I am a proactive, confident person, strong communicator and always in the future.
-I really enjoy learning languages and frameworks.
+I'm Fadi, originally from Syria, and currently living in the Netherlands.
+I am a proactive and confident person, a strong communicator, and always looking towards the future.
+I really enjoy learning new languages and frameworks.
 <br />
 
 - 🌱 I recently graduated as a Front-end Developer from HACKYOURFUTURE Coding Academy in Amsterdam. 
