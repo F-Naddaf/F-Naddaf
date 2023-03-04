@@ -12,7 +12,7 @@ I really enjoy learning languages and frameworks.
 <br />
 
 ## Skills and Experience:
-* <img src='https://i.ibb.co/CQL5TyT/Vue.jpg' alt='vue' height='35'> Vue
+* <img src='https://i.ibb.co/VMvwRHX/vue.png' alt='vue' height='35'> Vue
 * <img src='https://i.ibb.co/mz4wg55/React.jpg' alt='react' height='35'> React
 * <img src='https://i.ibb.co/pLtDzZ4/Node.jpg' alt='node' height='35'> Node
 * <img src='https://i.ibb.co/Ms2GV1p/JS.png' alt='JS' height='35'> JavaScript
