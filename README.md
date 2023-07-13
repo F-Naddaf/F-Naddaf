@@ -18,7 +18,7 @@ I really enjoy learning new languages and frameworks.
 
 ## Skills and Experience:
 
-<img src="https://i.ibb.co/drkrvgj/PS.png" alt="PS" border="0" height='35'>
+<p align="left"><img src="https://i.ibb.co/drkrvgj/PS.png" alt="PS" border="0" height='35'>
 <img src="https://i.ibb.co/Yk3X8LB/AI.png" alt="AI" border="0" height='35'>
 <img src="https://i.ibb.co/qYCdjyj/Figma.png" alt="Figma" border="0" height='35'>
 <img src="https://i.ibb.co/hsmfNXD/HTML.png" alt="HTML" border="0" height='35'>
@@ -30,7 +30,7 @@ I really enjoy learning new languages and frameworks.
 <img src="https://i.ibb.co/Y8Ckr6K/MongoDB.png" alt="MongoDB" border="0" height='35'>
 <img src="https://i.ibb.co/z8fxysT/MySql.png" alt="MySql" border="0" height='35'>
 <img src="https://i.ibb.co/4Mbr1jw/React.png" alt="React" border="0" height='35'>
-<img src="https://i.ibb.co/8BMCknT/vue.png" alt="vue" border="0" height='35'>
+<img src="https://i.ibb.co/8BMCknT/vue.png" alt="vue" border="0" height='35'></p>
 
 <br />
 
