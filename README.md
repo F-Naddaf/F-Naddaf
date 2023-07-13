@@ -18,22 +18,21 @@ I really enjoy learning new languages and frameworks.
 
 ## Skills and Experience:
 
-* <img src="https://i.ibb.co/drkrvgj/PS.png" alt="PS" border="0">
-* <img src="https://i.ibb.co/Yk3X8LB/AI.png" alt="AI" border="0">
-* <img src="https://i.ibb.co/qYCdjyj/Figma.png" alt="Figma" border="0">
-* <img src="https://i.ibb.co/hsmfNXD/HTML.png" alt="HTML" border="0">
-* <img src="https://i.ibb.co/ZBcK7xj/CSS.png" alt="CSS" border="0">
-* <img src="https://i.ibb.co/khqkNSD/Tailwind.png" alt="Tailwind" border="0">
-* <img src="https://i.ibb.co/wpPy0PB/JS.png" alt="JS" border="0">
-* <img src="https://i.ibb.co/g7Jzyrk/Firebase.png" alt="Firebase" border="0">
-* <img src="https://i.ibb.co/MM20m2m/Twilio.png" alt="Twilio" border="0">
-* <img src="https://i.ibb.co/Y8Ckr6K/MongoDB.png" alt="MongoDB" border="0">
-* <img src="https://i.ibb.co/z8fxysT/MySql.png" alt="MySql" border="0">
-* <img src="https://i.ibb.co/4Mbr1jw/React.png" alt="React" border="0">
-* <img src="https://i.ibb.co/8BMCknT/vue.png" alt="vue" border="0">
+<img src="https://i.ibb.co/drkrvgj/PS.png" alt="PS" border="0" height='35'>
+<img src="https://i.ibb.co/Yk3X8LB/AI.png" alt="AI" border="0" height='35'>
+<img src="https://i.ibb.co/qYCdjyj/Figma.png" alt="Figma" border="0" height='35'>
+<img src="https://i.ibb.co/hsmfNXD/HTML.png" alt="HTML" border="0" height='35'>
+<img src="https://i.ibb.co/ZBcK7xj/CSS.png" alt="CSS" border="0" height='35'>
+<img src="https://i.ibb.co/khqkNSD/Tailwind.png" alt="Tailwind" border="0" height='35'>
+<img src="https://i.ibb.co/wpPy0PB/JS.png" alt="JS" border="0" height='35'>
+<img src="https://i.ibb.co/g7Jzyrk/Firebase.png" alt="Firebase" border="0" height='35'>
+<img src="https://i.ibb.co/MM20m2m/Twilio.png" alt="Twilio" border="0" height='35'>
+<img src="https://i.ibb.co/Y8Ckr6K/MongoDB.png" alt="MongoDB" border="0" height='35'>
+<img src="https://i.ibb.co/z8fxysT/MySql.png" alt="MySql" border="0" height='35'>
+<img src="https://i.ibb.co/4Mbr1jw/React.png" alt="React" border="0" height='35'>
+<img src="https://i.ibb.co/8BMCknT/vue.png" alt="vue" border="0" height='35'>
 
 <br />
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F-Naddaf)
 <br />
