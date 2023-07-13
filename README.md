@@ -17,14 +17,21 @@ I really enjoy learning new languages and frameworks.
 <br />
 
 ## Skills and Experience:
-* <img src='https://i.ibb.co/HK5H1Hr/Vuelogo.jpg' alt='vue' height='35'> Vue
-* <img src='https://i.ibb.co/mz4wg55/React.jpg' alt='react' height='35'> React
-* <img src='https://i.ibb.co/pLtDzZ4/Node.jpg' alt='node' height='35'> Node
-* <img src='https://i.ibb.co/Ms2GV1p/JS.png' alt='JS' height='35'> JavaScript
-* <img src='https://i.ibb.co/km8MJGM/CSS.png' alt='CSS' height='35'> CSS
-* <img src='https://i.ibb.co/qWGVFZ9/HTML.png' alt='HTML' height='35'>  HTML
-* <img src='https://i.ibb.co/TKyFTPz/PS.png' alt='PS' height='35'> Adobe Photoshop
-* <img src='https://i.ibb.co/VDD9Bwp/AI.png' alt='AI' height='35'> Adobe Illustrator
+
+* <img src="https://i.ibb.co/drkrvgj/PS.png" alt="PS" border="0">
+* <img src="https://i.ibb.co/Yk3X8LB/AI.png" alt="AI" border="0">
+* <img src="https://i.ibb.co/qYCdjyj/Figma.png" alt="Figma" border="0">
+* <img src="https://i.ibb.co/hsmfNXD/HTML.png" alt="HTML" border="0">
+* <img src="https://i.ibb.co/ZBcK7xj/CSS.png" alt="CSS" border="0">
+* <img src="https://i.ibb.co/khqkNSD/Tailwind.png" alt="Tailwind" border="0">
+* <img src="https://i.ibb.co/wpPy0PB/JS.png" alt="JS" border="0">
+* <img src="https://i.ibb.co/g7Jzyrk/Firebase.png" alt="Firebase" border="0">
+* <img src="https://i.ibb.co/MM20m2m/Twilio.png" alt="Twilio" border="0">
+* <img src="https://i.ibb.co/Y8Ckr6K/MongoDB.png" alt="MongoDB" border="0">
+* <img src="https://i.ibb.co/z8fxysT/MySql.png" alt="MySql" border="0">
+* <img src="https://i.ibb.co/4Mbr1jw/React.png" alt="React" border="0">
+* <img src="https://i.ibb.co/8BMCknT/vue.png" alt="vue" border="0">
+
 <br />
 
 
@@ -32,5 +39,5 @@ I really enjoy learning new languages and frameworks.
 <br />
 
 ## Contact with me:
-[<img align="left" alt="linkedin" width='40' src="https://i.postimg.cc/MHj1T4VK/Linked-In-logo.png">](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  [<img align="left" alt="github" width='40' src="https://i.postimg.cc/P5nQLt6G/Git-Hub-logo.png">](https://github.com/F-Naddaf)  [<img align="left" alt="github" width='40' src="https://i.postimg.cc/3R0P88Sy/Twitter-logo.png">](https://twitter.com/nadaf_fady)  
+[<img align="left" alt="linkedin" width='40' src="https://i.ibb.co/BGjDBhD/linkedin.png">](https://www.linkedin.com/in/fadi-naddaf-a04ba7196/)  [<img align="left" alt="github" width='40' src="https://i.ibb.co/FzyTXhD/GitHub.png">](https://github.com/F-Naddaf)  [<img align="left" alt="email" width='40' src="https://i.ibb.co/f8rt3bQ/Email.png">](fady-naddaf@hotmail.com)  
 
