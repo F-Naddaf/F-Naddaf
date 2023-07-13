@@ -16,7 +16,7 @@ I really enjoy learning new languages and frameworks.
 - ⚡ Fun fact: Online shopping and puzzle solving. 
 <br />
 
-## Skills and Experience:
+## Languages and Tools:
 
 <p align="left">
 <img src="https://i.ibb.co/b38tfKM/PS.png" alt="PS" border="0" height='55'>
