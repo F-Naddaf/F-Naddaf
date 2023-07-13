@@ -5,6 +5,7 @@
 I'm Fadi, originally from Syria, and currently living in the Netherlands.
 I am a proactive and confident person, a strong communicator, and always looking towards the future.
 I really enjoy learning new languages and frameworks.
+
 <br />
 
 - 👨‍💻 All of my projects are available at [https://f-naddaf.github.io/portfolio/](https://f-naddaf.github.io/portfolio/)
