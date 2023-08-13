@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Fadi Naddaf
-### Front-End Developer
+### Full-Stack Developer
 ![Design and Development](https://github.com/F-Naddaf/F-Naddaf/blob/main/GitHub%20Profile%20banner.jpg)
 
 I'm Fadi, originally from Syria, and currently living in the Netherlands.
