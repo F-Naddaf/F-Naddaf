@@ -29,6 +29,7 @@ I really enjoy learning new languages and frameworks.
 <img src="https://i.ibb.co/g7Jzyrk/Firebase.png" alt="Firebase" border="0" height='55'>
 <img src="https://i.ibb.co/MM20m2m/Twilio.png" alt="Twilio" border="0" height='55'>
 <img src="https://i.ibb.co/Y8Ckr6K/MongoDB.png" alt="MongoDB" border="0" height='55'>
+<img src="https://i.ibb.co/Gn9v1qd/GraphQL.png" alt="GraphQL" border="0" height='55'>
 <img src="https://i.ibb.co/z8fxysT/MySql.png" alt="MySql" border="0" height='55'>
 <img src="https://i.ibb.co/4Mbr1jw/React.png" alt="React" border="0" height='55'>
 <img src="https://i.ibb.co/8BMCknT/vue.png" alt="vue" border="0" height='55'></p>
